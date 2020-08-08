@@ -1,4 +1,4 @@
-# PyEdu
+# PyEdu 
 Python education-based apis
 ## API:
 * PySci
