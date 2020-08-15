@@ -1,0 +1,2 @@
+class PointSet(ComponentSet):
+    pass
