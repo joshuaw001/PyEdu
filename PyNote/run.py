@@ -1,3 +1,5 @@
+from PyPDF2 import PdfFileReader
+
 class Notebook:
     pass
 class NotebookSectionGroup:
