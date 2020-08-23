@@ -4,15 +4,18 @@ import os
 import sys
 import PySimpleGUI as sg
 
+
 class Notebook:
-    pass
-class NotebookSectionGroup:
     pass
 class NotebookSection:
     pass
 class NotebookPage:
     pass
-class ToolExtension:
+class Extension:
     pass
+class ToolBarExtension(Extension):
+    pass
+
 def init():
-    root = 
+    root = 0
+    
